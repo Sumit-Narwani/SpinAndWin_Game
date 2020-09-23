@@ -1,6 +1,6 @@
-# Heading
+# Spin And Win Game
 
-Sumit narwani
+A Simple game created using Html, CSS and Javascript framework Phaser.
 
 [Link](https://fb.com)
 
