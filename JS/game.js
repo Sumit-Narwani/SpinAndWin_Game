@@ -126,7 +126,7 @@ function spinwheel(){
     
     let idx = prizes_config.count - 1 - Math.floor(degrees/(360/prizes_config.count));
     
-    // tweens are used to add animations (gradually changing) in Phaser.
+    // tweens are used to add animations (gradually changing) in Phaser.    
     tween = this.tweens.add({
         targets: this.wheel,
         angle: total_angle,   // random angle 
