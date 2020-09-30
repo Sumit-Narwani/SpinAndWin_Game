@@ -1,3 +1,9 @@
+/*
+    Created
+    Sumit Narwani  - 18/09/20
+*/
+
+
 // Hello world of Phaser = Basic Game = Single scene in Spin & Win Game
 // How to create the basic skeleton for the game  -> Game Loop
 
