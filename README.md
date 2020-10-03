@@ -6,7 +6,7 @@
 ![Image](./Assets/WheelAnimation.gif) 
 
 
-# FREQUENTLY ASKED QUESTIONS
+# FREQUENTLY ASKED QUESTIONS!
 
 **Q1: How do I download the files?**
 
